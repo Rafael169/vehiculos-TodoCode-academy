@@ -12,12 +12,12 @@ Aplicación de escritorio desarrollada en Java que permite gestionar vehículos 
 
 ## 🧰 Tecnologías usadas
 
-- Java 17 (o la versión que usaste)
+- Java 17 
 - Java Swing
 - JPA / Hibernate
 - MySQL
 - Maven (si usaste Maven)
-- IDE: IntelliJ IDEA / Eclipse (indica cuál usaste)
+- IDE: NetBeans
 
 ## 🚀 Instalación
 
